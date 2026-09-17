@@ -1,7 +1,7 @@
  ## 👽️Apresentação
  - Estudante de Análise e Desenvolvimento de Sistemas
- - Buscando atuar como Estágiario na área de TI
- - Atualmente aprofundando meus conhecimentos em estudar programação
+ - Buscando atuar como Estagiário na área de TI
+ - Atualmente, aprofundando meus conhecimentos em programação.
   
 ## Tecnologias e Ferramentas
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
@@ -10,14 +10,14 @@
 
 
 ## ✏️Meu Roadmap (Próximos 6 meses)
-- Mapear minha carreira
+- Definir e desenvolver meu plano de carreira em TI
 - Criar um Readme de perfil
 - Subir pelo menos um projeto completo com documentação no Github
 - Melhorar meu nível de Inglês
 - Aprender linguagem C
 - Aprender html e css
 - Buscar cursos e certificações
-- Participar de Processos Seletivos e Aprender com Profissionais Expêrientes da Área de TI
+- Participar de Processos Seletivos e Aprender com Profissionais Experientes da Área de TI
 
 ## Projetos em Destaque
 | Projetos | Descrição | Tecnologia Principal |
